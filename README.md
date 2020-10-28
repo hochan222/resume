@@ -26,7 +26,7 @@ Tech. Stack: React Hooks API, ExpressJS, MariaDB, Material-UI, Swagger, PM2
 
 [__AR기반 화면공유 회의 시스템__](https://github.com/hanium2019/hanium_2019)  
 2019년 2월 – 2019년 12월  
-한이음 공모전 2019에 [AR기반 화면공유 회의 시스템] 동상을 받는 결과를 만들었습니다. 맡은 역할은 서버 및 DB 연동, Web을 개발하는 part를 맡았고 GraphQL을 사용해 Query를 요청하는 부분을 개발하였고 회의록 요약 및 자동 생성을 위해 Google Cloud Platform(GCP)의 STT API를 활용해 음성을 Text로 변환했고, 이를 TextRank 알고리즘을 이용해 3줄 요약해 웹 플랫폼에 제공하는 일을 담당했습니다. 또한, 같은 주제로 2019 한국정보처리학회 추계학술발표대회를 제주대학교에서 포스터 발표 하였고, 교내 이공계 학술제에서 1위 하여 총장상을 받았습니다.
+한이음 공모전 2019에 [AR기반 화면공유 회의 시스템] 주제로 동상을 받는 결과를 만들었습니다. 맡은 역할은 서버 및 DB 연동, Web을 개발하는 part를 맡았고 GraphQL을 사용해 Query를 요청하는 부분을 개발하였고 회의록 요약 및 자동 생성을 위해 Google Cloud Platform(GCP)의 STT API를 활용해 음성을 Text로 변환했고, 이를 TextRank 알고리즘을 이용해 3줄 요약해 웹 플랫폼에 제공하는 일을 담당했습니다. 또한, 같은 주제로 2019 한국정보처리학회 추계학술발표대회를 제주대학교에서 포스터 발표 하였고, 교내 이공계 학술제에서 1위 하여 총장상을 받았습니다.
 
 [프로젝트 보기](https://github.com/hanium2019/hanium_2019)  
 
