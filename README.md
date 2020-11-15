@@ -6,7 +6,7 @@ Tech. Stack: React Hooks API, ExpressJS, MariaDB, Material-UI, Swagger, PM2
 사내 관리자 페이지 개발  
 
 [HTTP Server 만들기 Hands on Lab](https://festa.io/events/716)  
-2019년 11월 22일 (금) 오후 06:00 - 오후 09:00
+2019년 11월 22일 (금) 오후 06:00 - 오후 09:00  
 기술 세미나 주최  
 - - -
 
