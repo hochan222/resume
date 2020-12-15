@@ -1,7 +1,7 @@
 # resume
 
 __퍼시픽나인__  
-2020년 03월 ~ 2020년 07월  
+2020년 03월 ~ 2020년 06월  
 Tech. Stack: React Hooks API, ExpressJS, MariaDB, Material-UI, Swagger, PM2  
 관리자 페이지 개발  
 
